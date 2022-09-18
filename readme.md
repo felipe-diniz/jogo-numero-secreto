@@ -31,7 +31,9 @@ Projeto desenvolvido com base no Web Speech, com dicas se o número secreto é m
 
 ## Deploy da Aplicação :dash:
 
-> 
+> https://github.com/felipe-diniz/jogo-numero-secreto
+> https://felipe-diniz.github.io/jogo-numero-secreto/
+> https://jogo-numero-secreto-eight-wine.vercel.app/
 
 ## Desenvolvedor :octocat:
 
